@@ -1,0 +1,44 @@
+/* so os styles da pagina de index */
+
+/* carrousel */
+
+.slide-c {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.slide-c {
+    transition: all 1s;
+    box-shadow:
+        0px 0px 37.5px rgba( 25, 135, 84, 0.624),
+        0px 0px 82px rgba( 25, 135, 84, 0.82);
+}
+
+.slide-c:hover {
+    box-shadow:
+        0px 0px 37.5px rgba( 95, 57, 229, 0.624),
+        0px 0px 82px rgba( 95, 57, 229, 0.82);
+}
+
+.text-slide{
+    text-decoration: none;
+    backdrop-filter: blur(10px);
+    border: 1px solid #404040;
+    border-radius: 25px;
+}
+
+
+
+
+
+/* habilidades */
+
+.progress-bar-l-c{
+    background: linear-gradient(90deg , #5f39e5, #8054ee, #a16ef6);
+}
+
+.progress-bar-c{
+    background: transparent;
+    border: 1px solid #404040;
+        font-family: Arial, Helvetica, sans-serif;
+}
