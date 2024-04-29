@@ -15,3 +15,15 @@ function colorchange(element) {
 function colorchangeremove(element) {
     element.classList.remove("btn-projetos-branco")
 }
+
+function trocarprojetos() {
+    window.location.href = "../pages/Projects.html";
+}
+
+function trocarcontato() {
+    window.location.href = "../pages/contact.html";
+}
+
+function trocarindex() {
+    window.location.href = "../pages/index.html";
+}
