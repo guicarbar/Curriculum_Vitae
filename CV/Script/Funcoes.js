@@ -1,4 +1,4 @@
-
+// dar zoom e tirar zoom
 
 function zoomInProject(element) {
     element.classList.add("zoom");
