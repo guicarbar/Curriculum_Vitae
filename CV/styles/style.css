@@ -33,7 +33,15 @@ body {
     font-family: 'Special Elite', sans-serif;
 }
 
+.link-c{
+    color: #5f39e5;
+    text-decoration: none;
+    transition: all 0.5s;
+}
 
+.link-c:hover{
+    color: #a16ef6;
+}
 
 /* custons header/navbar */
 
@@ -81,19 +89,6 @@ body {
 
 
 /* Introdução/apresentação */
-
-.link-c{
-    color: #5f39e5;
-    text-decoration: none;
-    transition: all 0.5s;
-}
-
-.link-c:hover{
-    color: #a16ef6;
-}
-
-
-
 
 
 /* carrousel */
