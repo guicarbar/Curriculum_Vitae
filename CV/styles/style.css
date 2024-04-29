@@ -36,15 +36,52 @@ body {
     font-family: 'Special Elite', sans-serif;
 }
 
-.link-c{
+.title-c{
     color: #5f39e5;
-    text-decoration: none;
-    transition: all 0.5s;
+    font-weight: bold;
 }
 
-.link-c:hover{
+.title-s-c {
     color: #a16ef6;
 }
+
+.btn-projetos{
+    padding: 17px 40px;
+    border-radius: 50px;
+    cursor: pointer;
+    border: 0;
+    background-color: white;
+    box-shadow: rgb(0 0 0 / 5%) 0 0 8px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    font-size: 15px;
+    transition: all 0.5s ease;
+}
+
+.btn-projetos:hover{
+    letter-spacing: 3px;
+    background-color: hsl(261deg 80% 48%);
+    color: hsl(0, 0%, 100%);
+    box-shadow: rgb(93 24 220) 0px 7px 29px 0px;
+}
+
+.btn-projetos:active{
+    letter-spacing: 3px;
+    background-color: hsl(261deg 80% 48%);
+    color: hsl(0, 0%, 100%);
+    box-shadow: rgb(93 24 220) 0px 0px 0px 0px;
+    transform: translateY(10px);
+    transition: 100ms;
+}
+
+
+.btn-projetos-branco{
+    color: #fff;
+}
+
+
+
+
 
 /* custons header/navbar */
 
@@ -93,6 +130,19 @@ body {
 
 /* Introdução/apresentação */
 
+.link-c{
+    color: #5f39e5;
+    text-decoration: none;
+    transition: all 0.5s;
+}
+
+.link-c:hover{
+    color: #a16ef6;
+}
+
+
+
+
 
 /* carrousel */
 
@@ -124,17 +174,25 @@ body {
 
 
 
-/* alguma coisa */
+/* habilidades */
 
-.progress-cmt {
+.progress-bar-l-c{
     background: linear-gradient(90deg , #5f39e5, #8054ee, #a16ef6);
 }
 
-.bg-progress {
+.progress-bar-c{
     background: transparent;
     border: 1px solid #404040;
-    font-family: Arial, Helvetica, sans-serif;
+        font-family: Arial, Helvetica, sans-serif;
 }
+
+
+
+
+
+
+
+
 
 .card-cmt {
     background: #212529;
@@ -303,19 +361,6 @@ body {
 }
 
 
-.slide-cmt {
-    transition: all 1s;
-    box-shadow:
-        0px 0px 37.5px rgba( 25, 135, 84, 0.624),
-        0px 0px 82px rgba( 25, 135, 84, 0.82);
-}
-
-.slide-cmt:hover {
-    box-shadow:
-        0px 0px 37.5px rgba( 95, 57, 229, 0.624),
-        0px 0px 82px rgba( 95, 57, 229, 0.82);
-}
-
 .link-cmt-criador {
     text-decoration: none;
     color: #5f39e5;
@@ -331,38 +376,10 @@ body {
 
 
 
-.btn-projetos{
-    padding: 17px 40px;
-    border-radius: 50px;
-    cursor: pointer;
-    border: 0;
-    background-color: white;
-    box-shadow: rgb(0 0 0 / 5%) 0 0 8px;
-    letter-spacing: 1.5px;
-    text-transform: uppercase;
-    font-size: 15px;
-    transition: all 0.5s ease;
+
+
+/* footer */
+
+.version{
+    color: #8054ee;
 }
-
-.btn-projetos:hover{
-    letter-spacing: 3px;
-    background-color: hsl(261deg 80% 48%);
-    color: hsl(0, 0%, 100%);
-    box-shadow: rgb(93 24 220) 0px 7px 29px 0px;
-}
-
-.btn-projetos:active{
-    letter-spacing: 3px;
-    background-color: hsl(261deg 80% 48%);
-    color: hsl(0, 0%, 100%);
-    box-shadow: rgb(93 24 220) 0px 0px 0px 0px;
-    transform: translateY(10px);
-    transition: 100ms;
-}
-
-
-.btn-projetos-branco{
-    color: #fff;
-}
-
-
