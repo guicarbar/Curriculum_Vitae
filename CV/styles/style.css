@@ -19,7 +19,7 @@
 
 @import url('https://fonts.cdnfonts.com/css/special-elite');
 
-#intro, #slides, #criador, #abilidades{
+#intro, #slides, #criador, #habilidades, #analista,#cientista, #front, #bibliotecas{
     scroll-margin-top: 100px;
     scroll-behavior: smooth;
 }
