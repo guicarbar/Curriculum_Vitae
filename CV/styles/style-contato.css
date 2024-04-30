@@ -1,2 +1,65 @@
 /* parte de customizaçoes so da area de contato */
 
+/* cards de midias sociais */
+
+.social {
+    background: #212529;
+}
+
+.icon-c-s {
+    color: #ffffff;
+}
+
+.box1:hover {
+    background-color: #EA4335;
+    transition-duration: 0.3s;
+}
+
+.box2:hover {
+    background-color: #0072b1;
+    transition-duration: 0.3s;
+}
+
+.box3:hover {
+    background-color: #128C7E;
+    transition-duration: 0.3s;
+}
+
+.box4:hover {
+    background-color: #5f39e5;
+    transition-duration: 0.3s;
+}
+
+.socialbox {
+    width: 52px;
+    height: 52px;
+    background-color: #212529;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    transition-duration: .3s;
+}
+
+.socialbox:active {
+    transform: scale(0.9);
+    transition-duration: 0.3s;
+}
+
+.socialbox:hover .socialSvg {
+    animation: slide 0.3s both;
+}
+
+@keyframes slide {
+    from {
+      transform: translateY(-50px);
+      opacity: 0;
+    }
+  
+    to {
+      transform: translateY(0);
+      opacity: 1;
+    }
+}
+
+
