@@ -1,9 +1,14 @@
-# Curriculum_Vitae
+# Curriculum_Vitae :fire:
 
-Meu curriculum pessoal em formato de site.
+Meu curriculum pessoal em formato de site. :octocat:
+A estrutura em si do site esta pronta, porem ainda falta adicionar os projetos na area de projetos ...
 
-Ele esta em processo de criação e ainda nn esta completo, mas pode dar uma ollhda pra ver como ele esta ficando.
+Minha ideia com isso e ir adcionando ele ao site aos poucos e conforme eu for faz meus projetos, porem deixei dois exmplos de como vai ficar futuramente
 
-Minha ideia e deixar ele acessivel nn somente em arquivos e codigo como agora mas em sites de hospedagem
+A pagina inicial do site e destinada a uma breve apresentação sobre mim e minhas habilidades em diferentes areas, aproveite para me conhecer.
 
-Vou usar Bootstrap como ferramenta para me ajudar a criar
+:heart: :heart: Agradeço desde já a qume visitar o site. :heart: :heart:
+
+Podem deixar suas duvidas ou entrar em contato comigo pelas diferentes formas disponiveis :exclamation: (desativei algumsa delas por segurança :trollface:):exclamation:
+
+:clap: :clap:
