@@ -9,6 +9,6 @@ A pagina inicial do site e destinada a uma breve apresentação sobre mim e minh
 
 :heart: :heart: Agradeço desde já a qume visitar o site. :heart: :heart:
 
-Podem deixar suas duvidas ou entrar em contato comigo pelas diferentes formas disponiveis :exclamation: (desativei algumsa delas por segurança :trollface:):exclamation:
+Podem deixar suas duvidas ou entrar em contato comigo pelas diferentes formas disponiveis :exclamation: (desativei algumas delas por segurança :trollface:):exclamation:
 
 :clap: :clap:
