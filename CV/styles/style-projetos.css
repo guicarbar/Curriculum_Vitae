@@ -1,0 +1,103 @@
+/* so as custons da area de projetos */
+
+/* custons dos card tutorial */
+
+.card-tutorial {
+    background: #212529;
+    border: 1px solid #404040;
+    color: #ffffff;
+    transition: all 0.7s ease;
+}
+
+.text-card {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.card-f-c {
+    border: 1px solid #404040;
+}
+
+
+/* botoes das cores tutorial */
+
+.btn-cores-verde{
+    padding: 17px 40px;
+    border-radius: 50px;
+    cursor: pointer;
+    border: 0;
+    background-color: white;
+    box-shadow: rgb(0 0 0 / 5%) 0 0 8px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    font-size: 15px;
+    transition: all 0.5s ease;
+    font-weight: bold;
+}
+
+.btn-cores-verde:hover{
+    letter-spacing: 3px;
+    background-color: #198754;
+    color: hsl(0, 0%, 0%);
+    box-shadow: #198754 0px 7px 29px 0px;
+}
+
+.btn-cores-verde:active{
+    letter-spacing: 3px;
+    background-color: #198754;
+    color: hsl(0, 0%, 0%);
+    box-shadow: #198754 0px 0px 0px 0px;
+    transform: translateY(10px);
+    transition: 100ms;
+}
+
+
+
+.btn-cores-azul{
+    padding: 17px 40px;
+    border-radius: 50px;
+    cursor: pointer;
+    border: 0;
+    background-color: white;
+    box-shadow: rgb(0 0 0 / 5%) 0 0 8px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    font-size: 15px;
+    transition: all 0.5s ease;
+    font-weight: bold;
+}
+
+.btn-cores-azul:hover{
+    letter-spacing: 3px;
+    background-color: #0c6efc;
+    color: hsl(0, 0%, 0%);
+    box-shadow: #0c6efc 0px 7px 29px 0px;
+}
+
+.btn-cores-azul:active{
+    letter-spacing: 3px;
+    background-color: #0c6efc;
+    color: hsl(0, 0%, 0%);
+    box-shadow: #0c6efc 0px 0px 0px 0px;
+    transform: translateY(10px);
+    transition: 100ms;
+}
+
+
+/* card de projetos */
+
+.card-c {
+    background: #212529;
+    border: 1px solid #404040;
+    color: #ffffff;
+    transition: all 0.7s ease;
+}
+
+.card-c-f {
+    border: 1px solid #404040;
+}
+
+.card-b-c {
+    text-decoration: none;
+    color: #ffffff;
+}
