@@ -1,3 +1,5 @@
+🟢 🟡 🔴
+
 # Curriculum_Vitae :fire:
 
 Meu curriculum pessoal em formato de site. :octocat:
